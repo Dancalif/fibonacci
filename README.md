@@ -1,6 +1,6 @@
-#Basic Automation Project
+#Fibonacci Project
 
-Basic Java  Automation Project
+Fibonacci Project
 
 *QA
 *Java
